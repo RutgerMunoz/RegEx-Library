@@ -58,7 +58,6 @@
 # print(emailRegEx.search("email.games+$@gmail.games"))
 
 
-# Exercise 2 :
 #
 # Username RegEx
 # Importing the RegEx Library
@@ -147,7 +146,6 @@
 
 
 
-# Exercise 3 :
 #
 # Userpassword RegEx
 # Importing the RegEx Library
